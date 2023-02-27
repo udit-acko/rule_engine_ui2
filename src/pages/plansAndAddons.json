@@ -1,0 +1,231 @@
+{
+    "plans" : [
+        {
+            "cat" : "private_car",
+            "key" : "car_comprehensive"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "car_bundled"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "car_tp"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "car_od"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "car_acko_garage"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "bike_comprehensive"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "bike_bundled"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "bike_od"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "bike_tp"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "pcv_comprehensive"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "pcv_third_party"
+        }
+    ],
+    "addons" : [
+        {
+            "cat" : "two_wheeler",
+            "key" : "tp_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "own_damage_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "pa_owner_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "electrical_accessories_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "non_electrical_accessories_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "pa_pillion_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "zero_depreciation_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "personal_belongings_theft_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "personal_belongings_damage_two_wheeler"
+        },
+        {
+            "cat" : "two_wheeler",
+            "key" : "rsa_two_wheeler"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "own_damage_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "tp_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "tp_cng_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "pa_owner_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "imt_23_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "imt_37_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "imt_40_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "imt_43_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "imt_44_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "electrical_accessories_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "unnamed_passenger_pcv"
+        },
+        {
+            "cat" : "pcv",
+            "key" : "zero_depreciation_pcv"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "tp_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "own_damage_basic_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "pa_owner_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "engine_protect_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "invoice_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "ncb_protect_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "pa_unnamed_passenger_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "rsa_outstation_keyprotect_combo_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "tp_cng_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "zero_depreciation_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "zero_depreciation_deductible_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "smart_zero_depreciation_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "zero_depreciation_acko_garage_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "rsa_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "legal_liability_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "key_protect_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "personal_belongings_damage_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "personal_belongings_ea_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "personal_belongings_theft_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "outstation_emergency_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "consumables_car"
+        },
+        {
+            "cat" : "private_car",
+            "key" : "electrical_accessories_own_damage_basic_car"
+        },
+
+        {
+            "cat" : "private_car",
+            "key" : "non_electrical_accessories_own_damage_basic_car"
+        }
+    ]
+}
